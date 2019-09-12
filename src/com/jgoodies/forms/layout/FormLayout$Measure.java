@@ -1,0 +1,1 @@
+//// Source code recreated from a .class file by IntelliJ IDEA// (powered by Fernflower decompiler)//package com.jgoodies.forms.layout;import java.awt.Component;public interface FormLayout$Measure {    int sizeOf(Component var1);}
